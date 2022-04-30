@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "980035798355",
+    "project_id": "shemesu-7122f",
+    "storage_bucket": "shemesu-7122f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:980035798355:android:87a3807800281a6e738da6",
+        "android_client_info": {
+          "package_name": "com.dmstechsolution.shemesu"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "980035798355-879nl6he78lbk25b9m58rigajsp8ula0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBbHr18vccpvFGya0bWkVZ8fTWwfmgGLiM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "980035798355-879nl6he78lbk25b9m58rigajsp8ula0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
